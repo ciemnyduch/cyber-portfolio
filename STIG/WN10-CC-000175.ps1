@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  This script turns off turns off the Inventory Collector to prevent it from collecting and sending data
+  This script turns off the Inventory Collector to prevent it from collecting and sending data
 
 .NOTES
     Author          : Taylor Walker
