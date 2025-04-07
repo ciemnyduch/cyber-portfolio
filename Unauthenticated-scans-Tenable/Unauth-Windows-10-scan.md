@@ -6,6 +6,8 @@ Unauthenticated scans are used to identify vunerabilities within a system or net
 This scan focuses on: open ports, unpatched software, and weak configurations
 The idea is to simulate what an outsider may see when trying to attack a system
 
+Use this tutorial in conjunction with the "Authenticated Windows 10 Scan" tutorial
+
 ### What you'll need to do for this lab:
 
 win + r + wf.msc, and disable VM's firewall
@@ -44,4 +46,8 @@ Click "See all Details"
 - Export / PDF - Executive Summary
 
 ![image](https://github.com/user-attachments/assets/039c3a98-ca67-419d-b888-a91e78be9f62)
+
+Tenable bases Summary scores off CVSS score
+
+In the next tutorial we will be conducting an authenticated scan
 
