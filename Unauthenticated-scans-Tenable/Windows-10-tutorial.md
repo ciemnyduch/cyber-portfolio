@@ -10,3 +10,8 @@ Ensure your NSG within Azure also allows all traffic inbound
 Ping the public IP of the VM from your local host to ensure it is accessible from the internet (This is just for the lab)
 (If the ping isn't replying this is an indicator that the scan may not work)
 
+Next log into Tenable
+
+- Go to "Scans"
+
+![image](https://github.com/user-attachments/assets/f2d86dcb-488c-4371-ad4a-0e0a9f118d4a)
