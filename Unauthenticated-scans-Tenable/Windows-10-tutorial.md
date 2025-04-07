@@ -43,5 +43,5 @@ Click "See all Details"
 - Organize by severity level
 - Export / PDF - Executive Summary
 
-![image](https://github.com/user-attachments/assets/8454b2cd-53a3-4a8c-9ba4-ce9a5d41bbf8)
+![image](https://github.com/user-attachments/assets/039c3a98-ca67-419d-b888-a91e78be9f62)
 
