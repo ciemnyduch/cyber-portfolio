@@ -37,7 +37,7 @@ sudo reboot
 # wget <github url of raw script> --no-check-certificate
 
 # Make the script executable:
-# chmod +x remediation-openssl-3.0.5-install.sh
+# chmod +x openssl-3.0.5-install.sh
 
 # Execute the script:
-# ./remediation-openssl-3.0.5-install.sh
+# ./openssl-3.0.5-install.sh
