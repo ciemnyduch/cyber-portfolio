@@ -24,7 +24,7 @@ sudo apt update
 # wget <github raw url> --no-check-certificate
 
 # Make the script executable:
-# chmod +x remediation-Telnet-Remove.sh
+# chmod +x Telnet-Remove.sh
 
 # Execute the script:
-# ./remediation-Telnet-Remove.sh
+# ./Telnet-Remove.sh
