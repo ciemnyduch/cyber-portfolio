@@ -1,7 +1,5 @@
-
-
 # This Bash script automates downloading, compiling, and installing OpenSSL 3.0.5 from source on a Linux system, updating library paths, and rebooting to apply changes
-# Remediates vunerabilities in older OpenSSL versions such as CVE-2022-2097 and CVE-2022-2274
+# Remediates vulnerabilities in older OpenSSL versions such as CVE-2022-2097 and CVE-2022-2274
 
 #!/bin/bash
 
