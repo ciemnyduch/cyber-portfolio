@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cve_list.xslt"?>
+
+<cve_catalog>
+  <cve id="CVE-2017-0144">
+    <name>EternalBlue SMBv1 exploit</name>
+    <severity>Critical</severity>
+    <publish_date>2017-03-14</publish_date>
+    <description>Exploits a vulnerability in Microsoft SMBv1 protocol. Used in WannaCry ransom attacks.</description>
+  </cve>
+  <cve id="CVE-2021-44228">
+    <name>Log4Shell (Apache Log4j Remote Code Execution)</name>
+    <severity>Critical</severity>
+    <publish_date>2021-12-10</publish_date>
+    <description>Allows unauthenticated remote attackers to execute arbitrary code via crafted log messages.</description>
+  </cve>
+  <cve id="CVE-2014-0160">
+    <name>Heartbleed (OpenSSL information disclosure)</name>
+    <severity>High</severity>
+    <publish_date>2014-04-07</publish_date>
+    <description>Allows attackers to read sensitive memory contents from affected servers, potentially leaking passwords and private keys.</description>
+  </cve>
+  <cve id="CVE-2017-5638">
+    <name>Apache Struts RCE</name>
+    <severity>Critical</severity>
+    <publish_date>2017-03-07</publish_date>
+    <description>A remote code execution flaw in Apache Struts 2 via crafted Content-Type HTTP headers, famously exploited in the Equifax breach.</description>
+  </cve>
+  <cve id="CVE-2018-8174">
+    <name>Double Kill</name>
+    <severity>Critical</severity>
+    <publish_date>2018-05-08</publish_date>
+    <description>A memory corruption vulnerability in Internet Explorer’s scripting engine allowing remote code execution if a user visits a malicious site.</description>
+  </cve>
+  <cve id="CVE-2022-22965">
+    <name>Spring4Shell</name>
+    <severity>Critical</severity>
+    <publish_date>2022-03-31</publish_date>
+    <description>A critical RCE vulnerability in Spring Framework allowing attackers to exploit class loader manipulation and remotely execute code on vulnerable servers.</description>
+  </cve>
+  <cve id="CVE-2019-0708">
+    <name>BlueKeep</name>
+    <severity>Critical</severity>
+    <publish_date>2019-05-14</publish_date>
+    <description>A critical RDP vulnerability in older versions of Windows that allows unauthenticated attackers to execute arbitrary code via specially crafted RDP requests.</description>
+  </cve>
+  <cve id="CVE-2020-0601">
+    <name>CurveBall</name>
+    <severity>Important</severity>
+    <publish_date>2020-01-14</publish_date>
+    <description>A flaw in Microsoft CryptoAPI affecting certificate validation on Windows, potentially allowing attackers to spoof trusted HTTPS and code-signing certificates.</description>
+  </cve>
+  <cve id="CVE-2015-1635">
+    <name>HTTP.sys RCE</name>
+    <severity>Critical</severity>
+    <publish_date>2015-04-14</publish_date>
+    <description>A vulnerability in Windows HTTP.sys kernel driver, allowing remote code execution via specially crafted HTTP requests on affected systems.</description>
+  </cve>
+  <cve id="CVE-2018-11776">
+    <name>Apache Struts Namespace RCE</name>
+    <severity>Critical</severity>
+    <publish_date>2018-08-22</publish_date>
+    <description>A vulnerability in Apache Struts 2’s namespace handling, permitting remote code execution when namespace values are improperly validated.</description>
+  </cve>
+</cve_catalog>
